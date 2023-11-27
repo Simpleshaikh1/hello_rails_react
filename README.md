@@ -72,61 +72,21 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 
-Example command:
-
-```sh
- gem install rails
-```
-
 ### Setup
 
 Clone this repository to your desired folder:
 
 
-Example commands:
-
-```sh
-  cd my-folder
-  git clone https://github.com/Simpleshaikh1/hello_rails_react.git
-```
--
-
 ### Install
 
 Install this project with:
 
-
-Example command:
-
-```sh
-  npm install
-  bundle install
-```
--
+bundle install
 
 ### Usage
 
 To run the project, execute the following command:
 
-
-Example command:
-
-```sh
-  rails server
-```
--
-
-### Run tests
-
-To run tests, run the following command:
-
-
-Example command:
-
-```sh
-  rails test
-```
--
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

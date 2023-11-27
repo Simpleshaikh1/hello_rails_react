@@ -10,10 +10,10 @@
 
 greetings = [
   "Hello, how are you?",
-  "Welcome to our app!",
-  "Greetings from Rails!",
-  "Have a great day!",
-  "Good to see you here!"
+  "Welcome to our app",
+  "Greetings from Rails",
+  "Have a great day",
+  "Good to see you here"
 ]
 
 greetings.each do |greeting|
